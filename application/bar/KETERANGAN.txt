@@ -1,0 +1,2 @@
+folder fpdf pindahkan ke dalam folder application/third_party.
+file pdf.php pindahkan ke dalam folder application/libraries.
